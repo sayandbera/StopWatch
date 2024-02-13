@@ -1,8 +1,3 @@
-# Jetpack Compose Stopwatch
-
-Uploading recommended.mp4…
-
-
 Welcome to the Jetpack Compose Stopwatch repository! 🚀 This application is a simple yet powerful stopwatch built using Jetpack Compose, Dagger-Hilt, and Android services.
 
 ## Features
