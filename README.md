@@ -35,4 +35,3 @@ https://github.com/sayandbera/StopWatch/assets/138639834/81dd0403-3f28-44f2-9ab7
 
 4. Explore the features and functionality of the Jetpack Compose Stopwatch!
 
-Get started with Jetpack Compose Stopwatch today and elevate your Android development skills! 🚀
