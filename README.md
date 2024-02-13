@@ -1,4 +1,8 @@
+### Jetpack Compose Stopwatch
 Welcome to the Jetpack Compose Stopwatch repository! 🚀 This application is a simple yet powerful stopwatch built using Jetpack Compose, Dagger-Hilt, and Android services.
+
+![screenshot on tablet](https://github.com/sayandbera/StopWatch/assets/138639834/235d23e4-aea2-4235-be04-d39291c29064)
+
 
 ## Quick demo video
 https://github.com/sayandbera/StopWatch/assets/138639834/81dd0403-3f28-44f2-9ab7-969979f34837
