@@ -4,10 +4,10 @@ Welcome to the Jetpack Compose Stopwatch repository! 🚀 This application is a 
 ![screenshot on tablet](https://github.com/sayandbera/StopWatch/assets/138639834/235d23e4-aea2-4235-be04-d39291c29064)
 
 
-## Quick demo video
+### Quick demo video
 https://github.com/sayandbera/StopWatch/assets/138639834/81dd0403-3f28-44f2-9ab7-969979f34837
 
-## Features
+### Features
 
 - **Intuitive UI:** The stopwatch UI consists of three text units representing Hours, Minutes, and Seconds for easy tracking.
 - **Dynamic Buttons:** The first button adapts based on the service state, providing a seamless user experience.
@@ -15,14 +15,14 @@ https://github.com/sayandbera/StopWatch/assets/138639834/81dd0403-3f28-44f2-9ab7
 - **Service Persistence:** Even if the application is closed, the stopwatch state can be tracked through the notification panel.
 - **Notification Controls:** Control the stopwatch conveniently using the notification panel.
 
-## Technologies Used
+### Technologies Used
 
 - **Jetpack Compose:** Experience modern Android UI development with the declarative UI toolkit.
 - **Dagger-Hilt:** Utilize dependency injection for clean and modular code.
 - **Bound Service:** Efficiently manage communication between components for a smooth user experience.
 - **Foreground Service:** Ensure precise timekeeping even when the app is in the background.
 
-## Getting Started
+### Getting Started
 
 1. Clone the repository.
    ```bash
